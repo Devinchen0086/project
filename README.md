@@ -13,4 +13,4 @@ https://github.com/Devinchen0086/project/
 
 And, soon, you can see my customized homepage at:
 
-http://devinchen0086.github.io/
+http://project.github.io/
